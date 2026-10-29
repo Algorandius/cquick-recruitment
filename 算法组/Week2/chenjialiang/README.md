@@ -3,6 +3,7 @@
 - 姓名：陈家亮（chenjialiang）
 - 完成日期：2026-10-29
 - 环境：Ubuntu 22.04 (WSL2) / ROS2 Humble / Python 3.10.12 / OpenCV 5.0.0 / NumPy 2.2.6
+- 说明：为保证图片大小，输出截图均做了一定的颜色处理，但绝对真实QWQ
 
 ---
 
